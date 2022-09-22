@@ -1,3 +1,5 @@
+![Add a heading](https://user-images.githubusercontent.com/61434616/191755174-e6990575-460d-406a-b400-6bcda1e34b70.png)
+
 <h1 align="center">Netflix Engine</h1>
 <p><font size="3">
 Netflix Engine is a web application used to recommend movies\shows depending on your 4 choices of your favourite selections and preferred language.
