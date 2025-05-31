@@ -1,9 +1,14 @@
-# Netflix Engine
+# 🎬 Netflix Engine
 
-Netflix Engine is a web application used to recommend movies/shows depending on your 4 choices of your favourite selections and preferred language. **Python** and **Flask** are used for the backend, while **HTML**, **CSS**, and **JavaScript** are used for the frontend.
+Netflix Engine is a web application that recommends movies/shows based on your four favorite selections and preferred language. It combines a simple recommendation system with a sleek web interface.
 
-## Table of Contents
-- [Netflix Engine app contains 4 main pages](#netflix-engine-app-contains-4-main-pages)
+- **Backend:** Python, Flask  
+- **Frontend:** HTML, CSS, JavaScript  
+
+---
+
+## 📑 Table of Contents
+- [Main Features](#main-features)
 - [Home Page](#home-page)
 - [Recommendation Page](#recommendation-page)
 - [Movie Detail Page](#movie-detail-page)
@@ -13,26 +18,56 @@ Netflix Engine is a web application used to recommend movies/shows depending on 
 - [View Live](#view-live)
 - [Conclusion](#conclusion)
 
-## Netflix Engine app contains 4 main pages:
-- [Home Page](#home-page)
-- [Recommendation Page](#recommendation-page)
-- [Movie Detail Page](#movie-detail-page)
-- [Netflix Page](#netflix-page)
+---
 
-## Home Page
-The user will provide the engine with 4 inputs of their favourite Movie/Show and their preferred language. Then, they can click on the "Get Started" button to see the list of recommendations.
+## 🔹 Main Features
 
-## Recommendation Page
-The user will receive recommendations for movies/shows sorted based on their IMDb scores.
+Netflix Engine includes 4 main pages:
 
-## Movie Detail Page
-By clicking on a recommended movie/show, users will see all details such as Genre, Movie Summary, Languages in which the movie is available, IMDb scores, Directors, Writers, and Actors, along with a direct link to the official Netflix movie/show.
+- [Home Page](#home-page)  
+- [Recommendation Page](#recommendation-page)  
+- [Movie Detail Page](#movie-detail-page)  
+- [Netflix Page](#netflix-page)  
 
-## Netflix Page
-Users can log into their Netflix account and enjoy watching their selected movie/show from the recommendations.
+---
 
-## How to Use
-1. Open the Jupyter Notebook terminal.
-2. Install Flask: 
+## 🏠 Home Page
+
+Users input:
+- 4 of their favorite movies or shows  
+- Preferred language
+
+Then click **“Get Started”** to generate personalized recommendations.
+
+---
+
+## 🎯 Recommendation Page
+
+Displays a list of recommended movies/shows, sorted by IMDb rating and matched based on user input.
+
+---
+
+## 🎬 Movie Detail Page
+
+Clicking any title opens a page showing:
+- Genre
+- Summary
+- Available languages
+- IMDb score
+- Directors, writers, and actors
+- A direct link to the title on Netflix
+
+---
+
+## 🔐 Netflix Page
+
+Allows users to log into their Netflix accounts and begin watching selected titles.
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
    ```bash
-   pip install flask
+   git clone https://github.com/mostafarahimtaha/Netflix-Engine.git
+   cd Netflix-Engine
