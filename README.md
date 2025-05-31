@@ -2,6 +2,17 @@
 
 Netflix Engine is a web application used to recommend movies/shows depending on your 4 choices of your favourite selections and preferred language. **Python** and **Flask** are used for the backend, while **HTML**, **CSS**, and **JavaScript** are used for the frontend.
 
+## Table of Contents
+- [Netflix Engine app contains 4 main pages](#netflix-engine-app-contains-4-main-pages)
+- [Home Page](#home-page)
+- [Recommendation Page](#recommendation-page)
+- [Movie Detail Page](#movie-detail-page)
+- [Netflix Page](#netflix-page)
+- [How to Use](#how-to-use)
+- [Project Screenshots](#project-screenshots)
+- [View Live](#view-live)
+- [Conclusion](#conclusion)
+
 ## Netflix Engine app contains 4 main pages:
 - [Home Page](#home-page)
 - [Recommendation Page](#recommendation-page)
