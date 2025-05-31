@@ -10,9 +10,9 @@ Netflix Engine is a web application used to recommend movies\shows depending on 
 | Page                   | Preview |
 |------------------------|---------|
 | **Home Page**          | ![Home Page](Netflix-Engine/app/static/screenshots/Screenshot-HomePage.png) |
-| **Recommendation Page**| ![Recommendation Page](app/static/screenshots/Screenshot-RecommendationPage1.png) |
-| **Movie Details**      | ![Movie Details](app/static/screenshots/Screenshot-MovieDetailPage1.png) |
-| **Netflix Page**       | ![Netflix Page](app/static/screenshots/Screenshot-NetflixPage.png) |
+| **Recommendation Page**| ![Recommendation Page](Netflix-Engine/app/static/screenshots/Screenshot-RecommendationPage1.png) |
+| **Movie Details**      | ![Movie Details](Netflix-Engine/app/static/screenshots/Screenshot-MovieDetailPage1.png) |
+| **Netflix Page**       | ![Netflix Page](Netflix-Engine/app/static/screenshots/Screenshot-NetflixPage.png) |
 
  # Netflix Engine app contains 4 main pages:
 - [Home Page](#home-page)
