@@ -5,7 +5,7 @@
 Netflix Engine is a web application used to recommend movies\shows depending on your 4 choices of your favourite selections and preferred language.
 <strong>Python</strong> and <strong>Flask</strong> for backend and <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong> for frontend.
 </p>
- # Screenshots:
+
 
 | Page                   | Preview |
 |------------------------|---------|
